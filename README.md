@@ -20,7 +20,7 @@ source name_of_virtual_environment/bin/activate
 **Windows**:
 ```console
 python -m venv name_of_virtual_environment
-source name_of_virtual_environment/Scripts/activate
+source name_of_virtual_environment/Scripts/activate.bat
 ```
 
 install required dependencies into virtual environment:
