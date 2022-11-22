@@ -13,14 +13,14 @@ create a virtual environment (**skip if you already have one**)
 
 **Linux and Mac**:
 ```console
-python3 -m venv name_of_virtual_environment
-source name_of_virtual_environment/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 **Windows**:
 ```console
-python -m venv name_of_virtual_environment
-source name_of_virtual_environment/Scripts/activate.bat
+python -m venv venv
+source venv/Scripts/activate.bat
 ```
 
 install required dependencies into virtual environment:
