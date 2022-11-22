@@ -1,6 +1,8 @@
 # malicious_urls
 Exam project for Cybersecurity Foundations and Analytics (W/22)
 
+**caution** malicious_phish.csv file contains malicious urls, so be careful not to open any urls in the browser
+
 ## getting started
 
 clone this project:
@@ -11,14 +13,14 @@ create a virtual environment (**skip if you already have one**)
 
 **Linux and Mac**:
 ```console
-python3 -m venv name_of_virtual_environment
-source name_of_virtual_environment/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 **Windows**:
 ```console
-python -m venv name_of_virtual_environment
-source name_of_virtual_environment/Scripts/activate
+python -m venv venv
+source venv/Scripts/activate.bat
 ```
 
 install required dependencies into virtual environment:
