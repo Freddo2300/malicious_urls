@@ -1,6 +1,8 @@
 # malicious_urls
 Exam project for Cybersecurity Foundations and Analytics (W/22)
 
+**caution** malicious_phish.csv file contains malicious urls, so be careful not to open any urls in the browser
+
 ## getting started
 
 clone this project:
